@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\C#\\Lesson\\Homework\\Homework3\\Tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{031FEAE4-97EF-40C2-B889-87673E1D77BD}|Tasks\\Tasks.csproj|d:\\code\\c#\\lesson\\homework\\homework3\\tasks\\tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031FEAE4-97EF-40C2-B889-87673E1D77BD}|Tasks\\Tasks.csproj|solutionrelative:tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\Lesson\\Homework\\Homework3\\Tasks\\Tasks\\Program.cs",
+              "RelativeDocumentMoniker": "Tasks\\Program.cs",
+              "ToolTip": "D:\\Code\\C#\\Lesson\\Homework\\Homework3\\Tasks\\Tasks\\Program.cs",
+              "RelativeToolTip": "Tasks\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T05:27:06.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
