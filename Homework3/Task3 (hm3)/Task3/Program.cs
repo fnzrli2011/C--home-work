@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            CapitalLetter("Men Feridem Sen  kimsen");
+            CapitalLetter("Men Feridem.Sen  kimsen");
         }
         public static void CapitalLetter(string s)
         {
@@ -12,12 +12,12 @@
             Console.Write(s[0]);
             foreach (char l in s)
             {
-                if (k == true && l!=' ')
+                if (k == true && char.IsLetter(l)==true)
                 {
                     Console.Write(l);
                     k = false;
                 }
-                if (l==' ')
+                if (char.IsLetter(l)!=true)
                 {
                     k= true;
                 }

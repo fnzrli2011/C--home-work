@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Code\\C#\\Lesson\\Homework\\Homework3\\Task3\\",
+  "WorkspaceRootPath": "D:\\Code\\C#\\Lesson\\Homework\\Homework3\\Task3 (hm3)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E95B6B5F-930F-4D3F-AC61-5CB833D6F2C1}|Task3\\Task3.csproj|d:\\code\\c#\\lesson\\homework\\homework3\\task3\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E95B6B5F-930F-4D3F-AC61-5CB833D6F2C1}|Task3\\Task3.csproj|d:\\code\\c#\\lesson\\homework\\homework3\\task3 (hm3)\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E95B6B5F-930F-4D3F-AC61-5CB833D6F2C1}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\C#\\Lesson\\Homework\\Homework3\\Task3\\Task3\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\Lesson\\Homework\\Homework3\\Task3 (hm3)\\Task3\\Program.cs",
               "RelativeDocumentMoniker": "Task3\\Program.cs",
-              "ToolTip": "D:\\Code\\C#\\Lesson\\Homework\\Homework3\\Task3\\Task3\\Program.cs",
+              "ToolTip": "D:\\Code\\C#\\Lesson\\Homework\\Homework3\\Task3 (hm3)\\Task3\\Program.cs",
               "RelativeToolTip": "Task3\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAAbAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-06T05:57:53.158Z",
               "EditorCaption": ""
