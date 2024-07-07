@@ -1,0 +1,15 @@
+D:\Code\C#\Lesson\Homework\Homework4\Task1\C#\Tsk1\Tsk1\bin\Debug\net8.0\Tsk1.exe
+D:\Code\C#\Lesson\Homework\Homework4\Task1\C#\Tsk1\Tsk1\bin\Debug\net8.0\Tsk1.deps.json
+D:\Code\C#\Lesson\Homework\Homework4\Task1\C#\Tsk1\Tsk1\bin\Debug\net8.0\Tsk1.runtimeconfig.json
+D:\Code\C#\Lesson\Homework\Homework4\Task1\C#\Tsk1\Tsk1\bin\Debug\net8.0\Tsk1.dll
+D:\Code\C#\Lesson\Homework\Homework4\Task1\C#\Tsk1\Tsk1\bin\Debug\net8.0\Tsk1.pdb
+D:\Code\C#\Lesson\Homework\Homework4\Task1\C#\Tsk1\Tsk1\obj\Debug\net8.0\Tsk1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\Lesson\Homework\Homework4\Task1\C#\Tsk1\Tsk1\obj\Debug\net8.0\Tsk1.AssemblyInfoInputs.cache
+D:\Code\C#\Lesson\Homework\Homework4\Task1\C#\Tsk1\Tsk1\obj\Debug\net8.0\Tsk1.AssemblyInfo.cs
+D:\Code\C#\Lesson\Homework\Homework4\Task1\C#\Tsk1\Tsk1\obj\Debug\net8.0\Tsk1.csproj.CoreCompileInputs.cache
+D:\Code\C#\Lesson\Homework\Homework4\Task1\C#\Tsk1\Tsk1\obj\Debug\net8.0\Tsk1.sourcelink.json
+D:\Code\C#\Lesson\Homework\Homework4\Task1\C#\Tsk1\Tsk1\obj\Debug\net8.0\Tsk1.dll
+D:\Code\C#\Lesson\Homework\Homework4\Task1\C#\Tsk1\Tsk1\obj\Debug\net8.0\refint\Tsk1.dll
+D:\Code\C#\Lesson\Homework\Homework4\Task1\C#\Tsk1\Tsk1\obj\Debug\net8.0\Tsk1.pdb
+D:\Code\C#\Lesson\Homework\Homework4\Task1\C#\Tsk1\Tsk1\obj\Debug\net8.0\Tsk1.genruntimeconfig.cache
+D:\Code\C#\Lesson\Homework\Homework4\Task1\C#\Tsk1\Tsk1\obj\Debug\net8.0\ref\Tsk1.dll
