@@ -1,0 +1,29 @@
+C:\Users\user\source\repos\MarketHesabat\MarketHesabat\bin\Debug\net8.0\MarketHesabat.exe
+C:\Users\user\source\repos\MarketHesabat\MarketHesabat\bin\Debug\net8.0\MarketHesabat.deps.json
+C:\Users\user\source\repos\MarketHesabat\MarketHesabat\bin\Debug\net8.0\MarketHesabat.runtimeconfig.json
+C:\Users\user\source\repos\MarketHesabat\MarketHesabat\bin\Debug\net8.0\MarketHesabat.dll
+C:\Users\user\source\repos\MarketHesabat\MarketHesabat\bin\Debug\net8.0\MarketHesabat.pdb
+C:\Users\user\source\repos\MarketHesabat\MarketHesabat\obj\Debug\net8.0\MarketHesabat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MarketHesabat\MarketHesabat\obj\Debug\net8.0\MarketHesabat.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MarketHesabat\MarketHesabat\obj\Debug\net8.0\MarketHesabat.AssemblyInfo.cs
+C:\Users\user\source\repos\MarketHesabat\MarketHesabat\obj\Debug\net8.0\MarketHesabat.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MarketHesabat\MarketHesabat\obj\Debug\net8.0\MarketHesabat.dll
+C:\Users\user\source\repos\MarketHesabat\MarketHesabat\obj\Debug\net8.0\refint\MarketHesabat.dll
+C:\Users\user\source\repos\MarketHesabat\MarketHesabat\obj\Debug\net8.0\MarketHesabat.pdb
+C:\Users\user\source\repos\MarketHesabat\MarketHesabat\obj\Debug\net8.0\MarketHesabat.genruntimeconfig.cache
+C:\Users\user\source\repos\MarketHesabat\MarketHesabat\obj\Debug\net8.0\ref\MarketHesabat.dll
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\MarketHesabat\bin\Debug\net8.0\MarketHesabat.exe
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\MarketHesabat\bin\Debug\net8.0\MarketHesabat.deps.json
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\MarketHesabat\bin\Debug\net8.0\MarketHesabat.runtimeconfig.json
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\MarketHesabat\bin\Debug\net8.0\MarketHesabat.dll
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\MarketHesabat\bin\Debug\net8.0\MarketHesabat.pdb
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\MarketHesabat\obj\Debug\net8.0\MarketHesabat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\MarketHesabat\obj\Debug\net8.0\MarketHesabat.AssemblyInfoInputs.cache
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\MarketHesabat\obj\Debug\net8.0\MarketHesabat.AssemblyInfo.cs
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\MarketHesabat\obj\Debug\net8.0\MarketHesabat.csproj.CoreCompileInputs.cache
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\MarketHesabat\obj\Debug\net8.0\MarketHesabat.sourcelink.json
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\MarketHesabat\obj\Debug\net8.0\MarketHesabat.dll
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\MarketHesabat\obj\Debug\net8.0\refint\MarketHesabat.dll
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\MarketHesabat\obj\Debug\net8.0\MarketHesabat.pdb
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\MarketHesabat\obj\Debug\net8.0\MarketHesabat.genruntimeconfig.cache
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\MarketHesabat\obj\Debug\net8.0\ref\MarketHesabat.dll

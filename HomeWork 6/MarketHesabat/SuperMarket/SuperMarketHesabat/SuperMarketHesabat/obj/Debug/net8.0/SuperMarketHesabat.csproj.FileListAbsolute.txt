@@ -1,0 +1,15 @@
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\SuperMarket\SuperMarketHesabat\SuperMarketHesabat\bin\Debug\net8.0\SuperMarketHesabat.exe
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\SuperMarket\SuperMarketHesabat\SuperMarketHesabat\bin\Debug\net8.0\SuperMarketHesabat.deps.json
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\SuperMarket\SuperMarketHesabat\SuperMarketHesabat\bin\Debug\net8.0\SuperMarketHesabat.runtimeconfig.json
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\SuperMarket\SuperMarketHesabat\SuperMarketHesabat\bin\Debug\net8.0\SuperMarketHesabat.dll
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\SuperMarket\SuperMarketHesabat\SuperMarketHesabat\bin\Debug\net8.0\SuperMarketHesabat.pdb
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\SuperMarket\SuperMarketHesabat\SuperMarketHesabat\obj\Debug\net8.0\SuperMarketHesabat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\SuperMarket\SuperMarketHesabat\SuperMarketHesabat\obj\Debug\net8.0\SuperMarketHesabat.AssemblyInfoInputs.cache
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\SuperMarket\SuperMarketHesabat\SuperMarketHesabat\obj\Debug\net8.0\SuperMarketHesabat.AssemblyInfo.cs
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\SuperMarket\SuperMarketHesabat\SuperMarketHesabat\obj\Debug\net8.0\SuperMarketHesabat.csproj.CoreCompileInputs.cache
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\SuperMarket\SuperMarketHesabat\SuperMarketHesabat\obj\Debug\net8.0\SuperMarketHesabat.sourcelink.json
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\SuperMarket\SuperMarketHesabat\SuperMarketHesabat\obj\Debug\net8.0\SuperMarketHesabat.dll
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\SuperMarket\SuperMarketHesabat\SuperMarketHesabat\obj\Debug\net8.0\refint\SuperMarketHesabat.dll
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\SuperMarket\SuperMarketHesabat\SuperMarketHesabat\obj\Debug\net8.0\SuperMarketHesabat.pdb
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\SuperMarket\SuperMarketHesabat\SuperMarketHesabat\obj\Debug\net8.0\SuperMarketHesabat.genruntimeconfig.cache
+D:\Code\C#\Lesson\Homework\HomeWork 6\MarketHesabat\SuperMarket\SuperMarketHesabat\SuperMarketHesabat\obj\Debug\net8.0\ref\SuperMarketHesabat.dll

@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\C#\\Lesson\\Homework\\HomeWork 6\\MarketHesabat\\SuperMarket\\SuperMarketHesabat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBA5835-066C-42E6-9471-350FC155A20D}|SuperMarketHesabat\\SuperMarketHesabat.csproj|d:\\code\\c#\\lesson\\homework\\homework 6\\markethesabat\\supermarket\\supermarkethesabat\\supermarkethesabat\\supermarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBA5835-066C-42E6-9471-350FC155A20D}|SuperMarketHesabat\\SuperMarketHesabat.csproj|solutionrelative:supermarkethesabat\\supermarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBA5835-066C-42E6-9471-350FC155A20D}|SuperMarketHesabat\\SuperMarketHesabat.csproj|d:\\code\\c#\\lesson\\homework\\homework 6\\markethesabat\\supermarket\\supermarkethesabat\\supermarkethesabat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBA5835-066C-42E6-9471-350FC155A20D}|SuperMarketHesabat\\SuperMarketHesabat.csproj|solutionrelative:supermarkethesabat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBA5835-066C-42E6-9471-350FC155A20D}|SuperMarketHesabat\\SuperMarketHesabat.csproj|d:\\code\\c#\\lesson\\homework\\homework 6\\markethesabat\\supermarket\\supermarkethesabat\\supermarkethesabat\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBA5835-066C-42E6-9471-350FC155A20D}|SuperMarketHesabat\\SuperMarketHesabat.csproj|solutionrelative:supermarkethesabat\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SuperMarket.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\Lesson\\Homework\\HomeWork 6\\MarketHesabat\\SuperMarket\\SuperMarketHesabat\\SuperMarketHesabat\\SuperMarket.cs",
+              "RelativeDocumentMoniker": "SuperMarketHesabat\\SuperMarket.cs",
+              "ToolTip": "D:\\Code\\C#\\Lesson\\Homework\\HomeWork 6\\MarketHesabat\\SuperMarket\\SuperMarketHesabat\\SuperMarketHesabat\\SuperMarket.cs",
+              "RelativeToolTip": "SuperMarketHesabat\\SuperMarket.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:52:08.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Market.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\Lesson\\Homework\\HomeWork 6\\MarketHesabat\\SuperMarket\\SuperMarketHesabat\\SuperMarketHesabat\\Market.cs",
+              "RelativeDocumentMoniker": "SuperMarketHesabat\\Market.cs",
+              "ToolTip": "D:\\Code\\C#\\Lesson\\Homework\\HomeWork 6\\MarketHesabat\\SuperMarket\\SuperMarketHesabat\\SuperMarketHesabat\\Market.cs",
+              "RelativeToolTip": "SuperMarketHesabat\\Market.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:47:26.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\Lesson\\Homework\\HomeWork 6\\MarketHesabat\\SuperMarket\\SuperMarketHesabat\\SuperMarketHesabat\\Program.cs",
+              "RelativeDocumentMoniker": "SuperMarketHesabat\\Program.cs",
+              "ToolTip": "D:\\Code\\C#\\Lesson\\Homework\\HomeWork 6\\MarketHesabat\\SuperMarket\\SuperMarketHesabat\\SuperMarketHesabat\\Program.cs",
+              "RelativeToolTip": "SuperMarketHesabat\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T08:46:34.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
